@@ -5,7 +5,7 @@ version: 0.1.0
 
 git:
   remote: https://github.com/anders314159/tiny_job
-  branch: master
+  branch: main
   directory: job
 
 jobtype_extra:
