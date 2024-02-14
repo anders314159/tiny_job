@@ -7,3 +7,7 @@ git:
   remote: https://github.com/anders314159/tiny_job
   branch: master
   directory: job
+
+jobtype_extra:
+  entrypoint_path: 'adder.py'
+  entrypoint_class: 'AdderModel'
